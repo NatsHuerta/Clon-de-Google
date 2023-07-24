@@ -1,0 +1,226 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+header {
+    /*  modelo de caja(tamañaos) */
+    height: 60px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgba(0, 0, 0, .87);
+}
+
+.boton1 {
+    background: #1a73e8;
+    border: 1px solid transparent;
+    color: #fff;
+}
+
+main {
+    height: 82vh;
+    /*     configuracion de el contenedor pade (como se va a comportar los hijos) */
+    display: flew;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;
+    text-align: -webkit-center;
+}
+
+main .main-imput {
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+footer {
+    background: #f2f2f2;
+    width: 100%;
+    height: 102px;
+    position: absolute;
+    bottom: 0;
+    align-items: center;
+    border-top: 1px solid #f2f2f3;
+}
+
+footer ul {
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    color: #dadce0;
+}
+
+footer .footer-lista1 {
+    justify-content: left;
+}
+
+footer .footer-lista2 {
+    justify-content: right;
+}
+
+footer ul li a {
+    margin: 10px;
+    color: #70757a;
+
+}
+
+header nav {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+ul {
+
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+li {
+    padding: 10px 10px;
+
+}
+
+header nav ul {
+    display: flex;
+    align-items: center;
+
+}
+
+#nav-rigth-section {
+    width: 250px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+}
+
+#nav-rigth-section li {
+    padding: 20px 10px;
+}
+
+#nav-left-section {
+    padding: 0px 10px;
+    ;
+
+}
+
+#footer-listas {
+    /* configuracion de el contenedor padre */
+    color: #70757a;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+.pais {
+    padding: 15px 30px;
+    color: #70757a;
+    border-bottom: 1px solid #dadce0;
+    margin: auto;
+}
+
+#footer-listas ul li {
+    padding: 0 20px;
+    justify-content: space-between;
+    font-size: small;
+    color: #70757a;
+    display: flex;
+}
+
+#footer-listas-hover {
+    box-shadow: 0 10px 15px rgba(5, 5, 5, 0.28);
+}
+
+.logo {
+    display: flex;
+
+}
+
+#seccion-buscador {
+    align-content: center;
+    display: block;
+    height: 0%;
+    color: #9aa0a6;
+    fill: currentColor;
+}
+
+button {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+#logo-google {
+    margin: 20px;
+}
+
+#botones {
+    margin-bottom: 10%;
+}
+
+#seccion-buscador {
+    margin: 10px 0px;
+    border: 1px solid #dfe1e5;
+    width: 550px;
+    min-height: 44px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 24px;
+    fill: currentColor;
+}
+
+#seccion-buscador svg {
+    padding: 5px 7px;
+    width: 24px;
+    align-content: center;
+    fill: currentColor;
+}
+
+#buscador {
+    width: 85%;
+    border: none;
+    outline: none;
+}
+
+#seccion-buscador:hover {
+    box-shadow: 1px 6px rgba(32, 33, 36, .28);
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
