@@ -1,14 +1,14 @@
 # Clon de Google utilizando HTML y CSS
-Proyecto realizado con la intención de aplicar los conocimientos obtenidos en el Bootcamp de Tecnolochicas PRO Summer Camp.
+**Proyecto realizado con la intención de aplicar los _conocimientos obtenidos en el Bootcamp_ de Tecnolochicas PRO Summer Camp.**
 
 Puedes poner en práctica tus habilidades revisando y utilizando el código a continuación.
 
 ## ÍNDICE
-* [1. Intro](url)
-* [2. Demo](url)
-* [3. ¿Qué construirás?](url)
-* [4. Objetivos de aprendizaje](url)
-* [5. Requisitos](url)
+* [1. Intro](https://github.com/NatsHuerta/Clon-de-Google#1-intro)
+* [2. Demo](https://github.com/NatsHuerta/Clon-de-Google#2-demo)
+* [3. ¿Qué construirás?](https://github.com/NatsHuerta/Clon-de-Google#3-qu%C3%A9-construir%C3%A1s)
+* [4. Objetivos de aprendizaje](https://github.com/NatsHuerta/Clon-de-Google#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/NatsHuerta/Clon-de-Google#5-requisitos)
 ****
 ## 1. Intro
 HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los días en el navegador. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS (junto con otros elementos que conocerás más adelante). Para este primer proyecto, con los conocimientos que tienes de HTML y CSS realizarás la clonación de la interfaz de Google, sí, esa que ves cada que haces una búsqueda en su navegador, ¿aceptas el reto?
@@ -19,7 +19,7 @@ Puedes entrar a ver el demo en este vínculo: https://main--ephemeral-pegasus-83
 ***La idea es inspirarte con esta demostración de proyecto.***
 
 ## 3. ¿Qué construirás?
-Este proyecto está enfocado en construir la interfaz estática de Google.
+Este proyecto está enfocado en construir la _interfaz estática de Google_.
 
 Se te pide que sea una sola página que contenga las secciones siguientes:
 
